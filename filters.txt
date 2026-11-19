@@ -1,1 +1,2 @@
 m.fmkorea.com##+js(set, _make_power_link_identifier, noopFunc)
+m.fmkorea.com##.fmad_naver_power_link
